@@ -1,0 +1,54 @@
+.navbar-header img {
+    display: inline!important;
+    width: 25px!important;
+    margin-bottom: 5px;
+}
+.bg1 {
+    background-image: url('mountains.jpg');
+    background-size: cover;
+    height: 90vh;
+}
+.bgon {
+    height: 100%;
+    background-color: rgba(19, 73, 73, 0.678);
+    color: white;
+   
+}
+.bgon button {
+    background-color: transparent;
+    color: white;
+    border: 1px solid black;
+}
+.bgon h1 {
+    font-size: 60px;
+}
+.bgon p {
+    font-size: 16px;
+}
+.flexed {
+    padding-top: 70px;
+}
+.black img {
+    height: 600px;
+}
+.blackinp {
+    background-color: black;
+    padding: 20px;
+}
+.white h4 {
+    color: blue;
+}
+.white {
+    border: 1px solid blue;
+    padding: 10px;
+    border-radius: 5px;
+}
+.bblue {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+.pad {
+    padding: 10px;
+}
